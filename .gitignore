@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Private AI workspace
+.ai/
+after-resuming.md
